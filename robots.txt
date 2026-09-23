@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brgzk.cn/sitemap.xml
